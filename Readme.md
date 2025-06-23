@@ -15,11 +15,17 @@ A program that cached A/AAAA records and processes them ultra fast using XDP/eBP
 ## Features
 
  A/AAAA Records support
+
  DNSSEC support
+
  Upstream DNS support for caching records.
+
  Failover DNS Upstream support (Using multiple DNS Servers)
+
  Metrics Monitoring
+
  Round Robin support
+ 
  Advanced Caching and serving using XDP/eBPF
 
 
